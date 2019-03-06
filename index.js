@@ -9,3 +9,5 @@ function circleCircumference(circle) {
 }
 
 //Third Task
+var myObj = {};
+MyObject.__proto__ = myObj;
